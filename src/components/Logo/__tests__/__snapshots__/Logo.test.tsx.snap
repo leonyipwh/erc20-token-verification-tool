@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Logo> should render 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <svg-mock
+      fill="white"
+    />
+  </div>
+</DocumentFragment>
+`;

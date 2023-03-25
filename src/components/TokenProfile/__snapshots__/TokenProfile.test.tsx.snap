@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TokenProfile> should render 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-i0bk1x-MuiPaper-root"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-18k87ye-MuiTypography-root"
+    >
+      Token Profile
+    </h6>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root css-1yuhvjn"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-1oxen2w-MuiTypography-root"
+      >
+        Name:
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-yyw3lr-MuiTypography-root"
+      >
+        BNB
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1yuhvjn"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-1oxen2w-MuiTypography-root"
+      >
+        Symbol:
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-yyw3lr-MuiTypography-root"
+      >
+        BNB
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1yuhvjn"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-1oxen2w-MuiTypography-root"
+      >
+        Decimals:
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-yyw3lr-MuiTypography-root"
+      >
+        18
+      </span>
+    </div>
+    <div
+      class="MuiBox-root css-1yuhvjn"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-1oxen2w-MuiTypography-root"
+      >
+        Total Supply:
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-body2 MuiTypography-gutterBottom css-yyw3lr-MuiTypography-root"
+      >
+        16,579,517.05525335
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

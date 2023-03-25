@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GasUsage> should display "No transaction record available" 1`] = `
+<DocumentFragment>
+  No transaction record available
+</DocumentFragment>
+`;
+
+exports[`<GasUsage> should render 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <svg
+      preserveAspectRatio="none"
+      viewBox="0 0 240 25"
+    >
+      <g>
+        <circle
+          cx="5"
+          cy="20"
+          r="2"
+          style="stroke: #42a5f5; stroke-width: 0; fill-opacity: .1; fill: none; pointer-events: auto;"
+        />
+        <circle
+          cx="81.66666666666667"
+          cy="15"
+          r="2"
+          style="stroke: #42a5f5; stroke-width: 0; fill-opacity: .1; fill: none; pointer-events: auto;"
+        />
+        <circle
+          cx="158.33333333333334"
+          cy="10"
+          r="2"
+          style="stroke: #42a5f5; stroke-width: 0; fill-opacity: .1; fill: none; pointer-events: auto;"
+        />
+        <circle
+          cx="235"
+          cy="5"
+          r="2"
+          style="stroke: #42a5f5; stroke-width: 0; fill-opacity: .1; fill: none; pointer-events: auto;"
+        />
+        <polyline
+          points="5 20 81.66666666666667 15 158.33333333333334 10 235 5 235 20 5 20 5 20"
+          style="stroke: #42a5f5; stroke-width: 0; fill-opacity: .1; fill: none; pointer-events: auto;"
+        />
+        <polyline
+          points="5 20 81.66666666666667 15 158.33333333333334 10 235 5"
+          style="stroke: #42a5f5; stroke-width: 0.6; stroke-linejoin: round; stroke-linecap: round; fill: none;"
+        />
+      </g>
+    </svg>
+  </div>
+  <div
+    class="css-aesejs-MuiStack-root"
+  >
+    <div
+      class="MuiBox-root css-xi606m"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-nx9l4d-MuiTypography-root"
+      >
+        Average Gas Usage
+      </span>
+      <div
+        class="MuiBox-root css-xi606m"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+        >
+          <span>
+            2500
+          </span>
+        </span>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical MuiDivider-flexItem css-1tk1bks-MuiDivider-root"
+    />
+    <div
+      class="MuiBox-root css-xi606m"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle2 MuiTypography-gutterBottom css-nx9l4d-MuiTypography-root"
+      >
+        Gas Usage Deviation
+      </span>
+      <div
+        class="MuiBox-root css-xi606m"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+        >
+          <span>
+            1291
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
